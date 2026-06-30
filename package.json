@@ -1,0 +1,26 @@
+{
+  "name": "novabennett95-qr-code-generator",
+  "version": "1.0.0",
+  "description": "QR Code Generator generates custom QR codes with logos, colors, and designs, downloadable as SVG or high-res PNG",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "qr-code",
+    "qr-code-generator",
+    "qr",
+    "barcode",
+    "custom-qr",
+    "svg",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "DashQR",
+  "license": "ISC",
+  "homepage": "https://dashqr.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novabennett95/qr-code-generator.git"
+  }
+}
